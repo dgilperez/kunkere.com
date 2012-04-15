@@ -116,17 +116,24 @@ footer {
 }
 
 /* line 48, content/stylesheets/application.sass */
-.motto, .man {
+.motto {
   text-align: center;
   clear: both;
 }
 
 /* line 52, content/stylesheets/application.sass */
+.man {
+  text-align: center;
+  clear: both;
+  padding-top: 40px;
+}
+
+/* line 57, content/stylesheets/application.sass */
 .center {
   text-align: center;
 }
 
-/* line 55, content/stylesheets/application.sass */
+/* line 60, content/stylesheets/application.sass */
 .email {
   text-align: center;
   margin-bottom: 6px !important;
