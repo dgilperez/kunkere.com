@@ -79,22 +79,28 @@ section {
 }
 
 /* line 20, content/stylesheets/application.sass */
+section.images subsection {
+  display: block;
+  margin: 1em 0;
+}
+
+/* line 25, content/stylesheets/application.sass */
 header .logo {
   float: right;
   margin: 6px;
 }
 
-/* line 24, content/stylesheets/application.sass */
+/* line 29, content/stylesheets/application.sass */
 footer {
   text-align: center;
   margin-top: 2em;
 }
 
-/* line 28, content/stylesheets/application.sass */
+/* line 33, content/stylesheets/application.sass */
 .jumbo {
   position: relative;
 }
-/* line 31, content/stylesheets/application.sass */
+/* line 36, content/stylesheets/application.sass */
 .jumbo h1 {
   font-size: 5.4em;
   font-weight: bold;
@@ -102,12 +108,12 @@ footer {
   line-height: 1;
   margin-bottom: 9px;
 }
-/* line 38, content/stylesheets/application.sass */
+/* line 43, content/stylesheets/application.sass */
 .jumbo p {
   font-weight: 300;
   margin-bottom: 18px;
 }
-/* line 42, content/stylesheets/application.sass */
+/* line 47, content/stylesheets/application.sass */
 .jumbo .lead {
   font-size: 2.1em;
   font-weight: 200;
@@ -115,25 +121,25 @@ footer {
   margin-bottom: 20px;
 }
 
-/* line 48, content/stylesheets/application.sass */
+/* line 53, content/stylesheets/application.sass */
 .motto {
   text-align: center;
   clear: both;
 }
 
-/* line 52, content/stylesheets/application.sass */
+/* line 57, content/stylesheets/application.sass */
 .man {
   text-align: center;
   clear: both;
   padding-top: 40px;
 }
 
-/* line 57, content/stylesheets/application.sass */
+/* line 62, content/stylesheets/application.sass */
 .center {
   text-align: center;
 }
 
-/* line 60, content/stylesheets/application.sass */
+/* line 65, content/stylesheets/application.sass */
 .email {
   text-align: center;
   margin-bottom: 6px !important;
