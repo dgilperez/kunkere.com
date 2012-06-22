@@ -144,3 +144,8 @@ footer {
   text-align: center;
   margin-bottom: 6px !important;
 }
+
+/* line 69, content/stylesheets/application.sass */
+.well {
+  overflow: hidden;
+}
